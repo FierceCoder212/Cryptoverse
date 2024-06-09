@@ -36,11 +36,11 @@ function App() {
           </Layout>
 
           <div className="footer">
-            <Typography.Title
+            {/* <Typography.Title
               level={5}
               style={{ color: "white", textAlign: "center" }}>
               Made with <Space>❤</Space> by {"Abdul Rehman Aziz "}
-            </Typography.Title>
+            </Typography.Title> */}
             <Space>
               <Link to="/">Home</Link>
               <Link to="/cryptocurrencies">Cryptocurrencies</Link>              <Link to="/exchanges">Exchanges</Link>
